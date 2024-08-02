@@ -1,3 +1,8 @@
+@font-face{
+    font-family: Butterfly Kids;
+    src: url(/Task1/ButterflyKids-Regular.woff2);
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -12,7 +17,7 @@ html,body{
     width: 100%;
 }
 .bg{
-    background-image: url("/Task1/bg1.jpg");
+    background-image: url("/Task1/bg1.webp");
     height: 100%;
     width: 100%;
     display: flex;
